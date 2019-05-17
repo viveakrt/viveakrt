@@ -1,10 +1,5 @@
 {
     "site-url": "http://viv1.netlify.com",
-    "prettify": true,
-    "blog": {
-        "path": "pages/posts",
-        "author": "vivek",
-        "date-format": "%d-%m-%Y"
-    }
+    "prettify": true
 
 }

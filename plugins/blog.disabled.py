@@ -10,6 +10,7 @@ from django.template import Context
 from django.template.loader import get_template
 from django.template.loader_tags import BlockNode, ExtendsNode
 
+
 def getNode(template, context=Context(), name='subject'):
     """
     Get django block contents from a template.
@@ -66,7 +67,7 @@ def preBuild(site):
     POSTS = sorted(POSTS, key=lambda x: x['date'])
     POSTS.reverse()
 
-    indexes = xrange(0, len(POSTS))
+    indexes = range(0, len(POSTS))
 
     for i in indexes:
         if i+1 in indexes: POSTS[i]['prevPost'] = POSTS[i+1]

@@ -4,16 +4,17 @@
 <head>
   <meta charset="UTF-8">
   </style>
-  <title>{% block title %}{% endblock %}</title>
+  <title>{% block title %}{% endblock title %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}"/>
   <link rel="canonical" href="{{ CURRENT_PAGE.absolute_final_url }}" />
-
+  {% block head %}
+  {% endblock head %}
 </head>
 {% block homevivek %}
 {% endblock %}
 
-    <header class="top-header top-header--home">
+    
       <div id="me2" class="top-header__logo">
         <div></div>
       </div>
@@ -99,7 +100,9 @@
     href="http://django.com/" target="_blank">Django cactus</a> . Hosted on <a href="https://github.com/Vivskecher"
     target="_blank">Github</a>
 </footer>
-
+<script id="dsq-count-scr" src="//viv1-1.disqus.com/count.js" async></script>
+{% block script %}
+{% endblock script %}
 </body>
 
 </html>
