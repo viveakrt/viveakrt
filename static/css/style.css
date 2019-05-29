@@ -986,3 +986,60 @@ pre[class*=language-] {}
         display: block
     }
 }
+
+.float {
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #12e772;
+    color: #FFF;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+}
+
+.float:hover {
+    transition: 0.5s;
+    box-shadow: 4px 4px 6px #999;
+}
+
+.my-float {
+    margin-top: 22px;
+}
+
+a.float+div.label-container {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s ease;
+}
+
+a.float:hover+div.label-container {
+    visibility: visible;
+    opacity: 1;
+}
+
+.label-container {
+    position: fixed;
+    bottom: 48px;
+    right: 105px;
+    display: table;
+    visibility: hidden;
+}
+
+.label-text {
+    color: #FFF;
+    background: rgba(51, 51, 51, 0.5);
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.label-arrow {
+    display: table-cell;
+    vertical-align: middle;
+    color: #333;
+    opacity: 0.5;
+}
