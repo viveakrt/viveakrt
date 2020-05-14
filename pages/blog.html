@@ -4,25 +4,29 @@ Blog
 {% endblock %}
 
 {% block homevivek %}
-
 <body class="blog">
   <div style="height: 20px"></div>
   <div id="outer-container">
     <div id="main-container">
-      <header class="top-header ">
-        {% endblock %}
+     <header class="top-header ">
+      {% endblock %}
 
-        {% block content %}
-        <article class="list-item ">
+  {% block content %}
+
+      <article class="list-item ">
           <h3 class="post-title">
-            <a href="{% url '/posts/ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA.html' %}">ROLE OF ENGINEERS IN A DEVELOPING
-              INDIA</a>
+            <a href="{% url '/posts/ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA.html' %}">ROLE OF ENGINEERS IN A DEVELOPING INDIA</a>
           </h3>
           <div class="flex space-between">
             <div class="post-meta">September 15, 2017</div>
+<<<<<<< HEAD
             {% comment %} <a href="/tags/Engineer.html" class="content-tag">ENGINEERS DAY</a> {% endcomment %}
             <a href="{% url '/posts/ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA.html' %} #disqus_thread"
               class="post-meta">comments</a>
+=======
+            <a href="/tags/Engineer.html" class="content-tag" >ENGINEERS DAY</a>
+            <a href="{% url '/posts/ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA.html' %} #disqus_thread" class="post-meta">comments</a>
+>>>>>>> parent of b8b5b46... test
           </div>
 
         </article>
