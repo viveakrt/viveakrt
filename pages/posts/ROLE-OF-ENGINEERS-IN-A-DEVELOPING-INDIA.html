@@ -19,7 +19,7 @@ ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA
                             datetime="Fri sept 15 2017 00:00:00 GMT+0000 (UTC)">Sptember 15, 2017</time> ·
                         Tagged
                         with
-                        <a href="{% url '/tags/Engineerday' %}" class="content-tag" >ENGINEERS DAY</a>
+                        <a href="{% url '/tags/Engineerday' %}" class="content-tag">ENGINEERS DAY</a>
                     </div>
                     <div class="post-content">
 
@@ -76,6 +76,26 @@ ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA
                     <div id="disqusContainerEl">
                         <h3>Comments</h3>
                         <hr>
+                        <form name="contact" method="POST" data-netlify="true">
+                            <p>
+                                <label>Your Name: <input type="text" name="name" /></label>
+                            </p>
+                            <p>
+                                <label>Your Email: <input type="email" name="email" /></label>
+                            </p>
+                            <p>
+                                <label>Your Role: <select name="role[]" multiple>
+                                        <option value="leader">Leader</option>
+                                        <option value="follower">Follower</option>
+                                    </select></label>
+                            </p>
+                            <p>
+                                <label>Message: <textarea name="message"></textarea></label>
+                            </p>
+                            <p>
+                                <button type="submit">Send</button>
+                            </p>
+                        </form>
                         <div id="disqus_thread"></div>
                         <script>
                             /**
@@ -87,7 +107,7 @@ ROLE-OF-ENGINEERS-IN-A-DEVELOPING-INDIA
                             this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
                             };
                             */
-                            (function () { 
+                            (function () {
                                 var d = document,
                                     s = d.createElement('script');
                                 s.src = 'https://viv1-1.disqus.com/embed.js';
