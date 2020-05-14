@@ -2,4 +2,4 @@
 /.build
 
 **/*.pyc
-*-env/
+*-env/"/.build" 
