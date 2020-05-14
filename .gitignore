@@ -1,5 +1,2 @@
-"/.build" 
-/.build
-
 **/*.pyc
 *-env/
