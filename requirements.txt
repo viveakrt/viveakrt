@@ -2,13 +2,8 @@ boto==2.49.0
 Cactus==3.3.3
 colorama==0.4.1
 colorlog==4.0.2
-<<<<<<< HEAD
-Django==3.0.6
-django-markwhat==1.6.2
-=======
 Django==1.6.11
 django-markwhat==1.6.1
->>>>>>> parent of 92fbecd... Revert "req"
 keyring==5.7.1
 markdown2==2.3.7
 six==1.12.0
