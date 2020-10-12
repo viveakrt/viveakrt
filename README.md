@@ -3,12 +3,22 @@
 
 ![Vivskecher profile](src/profile.gif)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    width="30" height="30" /> <img
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+    width="25" height="25" /> <img
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
-    width="20" height="20" /> <img
+    width="25" height="25" /> <img
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
-    width="10" height="10" />
+    width="25" height="25" />
+    <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"
+    width="25" height="25" /> <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+    width="25" height="25" /> <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    width="25" height="25" /> <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    width="25" height="25" /> 
+    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) 
 
 <!--
 
