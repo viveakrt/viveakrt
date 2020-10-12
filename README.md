@@ -1,9 +1,14 @@
-### Hi there , I am Here!!<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px" style="margin-bottom:-9px;">
+### Hi there , I am Here!! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px" style="margin-bottom:-9px;">
 
 
-![Vivskecher profile](src/profile.jpg)
+![Vivskecher profile](src/profile.gif)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+    width="30" height="30" /> <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
+    width="20" height="20" /> <img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
+    width="10" height="10" />
 
 <!--
 
