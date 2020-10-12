@@ -1,24 +1,18 @@
 ### Hi there , I am Here!! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px" style="margin-bottom:-9px;">
-
-
-![Vivskecher profile](src/profile.gif)
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    width="25" height="25" /> <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
-    width="25" height="25" /> <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
-    width="25" height="25" />
-    <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"
-    width="25" height="25" /> <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-    width="25" height="25" /> <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    width="25" height="25" /> <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    width="25" height="25" /> 
-    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) 
+[![Vivskecher profile](src/profile.gif)](https://www.vivek.codes/)
+<br/><br/>
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat&logo=django&logoColor=white)
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3%20-%239995B6.svg?&style=flat&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![cpp](https://img.shields.io/badge/c++%20-%2396499C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2307799C.svg?&style=flat&logo=mysql&logoColor=white)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) 
+[![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vivskecher)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vivsketcher/)
 
 <!--
 
