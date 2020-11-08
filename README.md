@@ -14,7 +14,7 @@
 [![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vivskecher)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vivsketcher/)
 
-**01010110 01101001 01110110 01100101 01101011** is a ✨ _special_ ✨ 
+**01010110 01101001 01110110 01100101 01101011** is a ✨ _special_ ✨ Give some ❤ Give some ⭐
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning machine learning
