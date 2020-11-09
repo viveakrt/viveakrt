@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on django
 - 🤔 I’m looking for help with ideas
 - 💬 Ask me about team Up
-- ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad.
+- ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad
 
 <!--
 
