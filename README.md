@@ -12,7 +12,7 @@
 ![mysql](https://img.shields.io/badge/mysql-%2307799C.svg?&style=flat&logo=mysql&logoColor=white)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=vivskecher) 
 [![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vivskecher)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vivsketcher/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/viveakrt/)
 
 **01010110 01101001 01110110 01100101 01101011** is a ✨ _special_ ✨ Give some ❤ Give some ⭐
 
@@ -63,7 +63,7 @@
     align="left" alt="Vivek | LinkedIn" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vivsketcher/)
 [<img align="left" alt="Vivek | Instagram" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vivskecher/)
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/viveakrt/)
 <br />
 ---
 ## My Stats 📈📊
