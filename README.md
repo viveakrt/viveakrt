@@ -67,14 +67,14 @@
 <br />
 ---
 ## My Stats 📈📊
-<img src="https://komarev.com/ghpvc/?username=vivskecher" alt="vivskecher" />
-<a href="https://github.com/vivskecher/github-readme-stats">
+<img src="https://komarev.com/ghpvc/?username=viveakrt" alt="vivskecher viveakrt" />
+<a href="https://github.com/viveakrt/github-readme-stats">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=vivskecher&repo=github-readme-stats&show_icons=true&theme=radical" />
+        src="https://github-readme-stats.vercel.app/api?username=viveakrt&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/vivskecher/convoychat">
+<a href="https://github.com/viveakrt/convoychat">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivskecher&layout=compact" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveakrt&layout=compact" />
 </a>
 <h2 align="center">Give some ❤ Give some ⭐</h2>
 
