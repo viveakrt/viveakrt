@@ -1,5 +1,5 @@
 ### Hi there , I am Here!! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px" style="margin-bottom:-9px;">
-[![Vivskecher profile](src/profile.gif)](https://www.vivek.codes/)
+[![Vivskecher profile](src/profile.gif)](https://viv1.netlify.app/)
 <br/><br/>
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat&logo=django&logoColor=white)
