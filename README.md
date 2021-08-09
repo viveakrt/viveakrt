@@ -74,7 +74,7 @@
 </a>
 <a href="https://github.com/viveakrt/convoychat">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveakrt&layout=compact" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveakrt&layout=compact&hide=html,css,javascript" />
 </a>
 <h2 align="center">Give some ❤ Give some ⭐</h2>
 
