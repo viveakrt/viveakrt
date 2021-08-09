@@ -10,6 +10,8 @@
 ![cpp](https://img.shields.io/badge/c++%20-%2396499C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2307799C.svg?&style=flat&logo=mysql&logoColor=white)
+![go](	https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 [![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vivskecher)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/viveakrt/)
 
