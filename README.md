@@ -61,7 +61,7 @@
 [<img align="left" alt="Vivek | Twitter" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/vivek12348) [<img
     align="left" alt="Vivek | LinkedIn" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vivsketcher/)
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/viveakrt/)
 [<img align="left" alt="Vivek | Instagram" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/viveakrt/)
 <br />
