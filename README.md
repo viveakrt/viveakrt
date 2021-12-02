@@ -66,16 +66,25 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/viveakrt/)
 <br />
 ---
+
 ## My Stats 📈📊
 <img src="https://komarev.com/ghpvc/?username=viveakrt" alt="vivskecher viveakrt" />
-<a href="https://github.com/viveakrt/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=viveakrt&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=viveakrt&theme=dark" width="48%" >
+<br>
+<!-- <a href="https://github.com/viveakrt/github-readme-stats">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=viveakrt&repo=github-readme-stats&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/viveakrt/convoychat">
+</a> -->
+<!-- <a href="https://github.com/viveakrt/convoychat">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveakrt&layout=compact&hide=html,css,javascript" />
-</a>
+</a> -->
+
+<p align="right" >
+<img alt=" Vivek Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viveakrt&bg_color=F2F2F2&color=273006&line=50640D&point=A0C711&hide_border=true" />
+</p>
+
 <h2 align="center">Give some ❤ Give some ⭐</h2>
 
 
